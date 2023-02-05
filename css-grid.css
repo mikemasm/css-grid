@@ -1,0 +1,16 @@
+/*resets*/
+body {
+  margin: 0;
+}
+
+.section {
+  max-width: 1440px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 100px;
+  padding-right: 100px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  background-color: grey;
+}
+/*# sourceMappingURL=css-grid.css.map */
